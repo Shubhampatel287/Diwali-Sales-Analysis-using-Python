@@ -21,6 +21,6 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 
 ## Contact :-
 LinkedIn : https://www.linkedin.com/in/shubham-kumar-patel-59a672202/ </br>
-Email : <a href="mailto:sp287233@gmail.com">sp287233@gmail.co</a>
+Email : <a href="mailto:sp287233@gmail.com">sp287233@gmail.com</a>
 
 Thank you!
